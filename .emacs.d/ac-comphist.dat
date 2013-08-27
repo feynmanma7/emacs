@@ -1,0 +1,72 @@
+((("sample-config" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("global-set-key" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("set-keyboard-coding-system" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("set-background-color" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("~/.emacs.d/plugins/yasnippet/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("n" .
+   [1])
+  ("stdio" .
+   [0 0 1 0 0])
+  ("include" .
+   [0 0 0 4 0 0 0])
+  ("semantic-ia" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("cedet" .
+   [0 0 0 1 0])
+  ("require" .
+   [0 0 0 3 2 1 2])
+  ("l" .
+   [1])
+  ("add-to-list" .
+   [1 0 0 0 0 0 0 0 0 0 2])
+  ("startup-screen-inhibit-startup-screen" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("load-path" .
+   [0 0 0 0 0 0 0 1 1])
+  ("~/.emacs.d/plugins" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("~/.emacs.d/plugins/cedet-1.1/common/" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("auto-complete-clang" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [3 0 0 2])
+  ("ac-auto-start" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 1])
+  ("nil" .
+   [1 0 0])
+  ("ac-quick-help-delay" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("string" .
+   [1 0 0 0 0 1])
+  ("ac-clang-auto-save" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("set" .
+   [1 0 0])
+  ("yasnippet" .
+   [0 0 0 0 0 1 0 0 1])
+  ("1" .
+   [1])
+  ("set-cursor-color" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("auto-complete" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("auto-complete-config" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("vector" .
+   [0 0 1 0 0 0])
+  ("int" .
+   [1 0 0])
+  ("lambda" .
+   [0 0 0 1 0 0])
+  ("concat" .
+   [1 0 0 0 0 0])
+  ("item" .
+   [1 0 0 0])
+  ("split-string" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])))
